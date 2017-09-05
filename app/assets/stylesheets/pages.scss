@@ -1,0 +1,172 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.row {
+  justify-content: center;
+}
+
+.pad-row {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.space-row {
+  margin-bottom: 20px;
+}
+
+// --------^ Universal styling ^---------
+.header {
+  text-align: center;
+}
+
+.main-title {
+  font-size: 3.6em;
+  margin: 0;
+}
+
+.subtitle {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 1.1em;
+}
+
+.navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-size: 1.4em;
+  border-bottom: 1px solid black;
+}
+
+.navbar-nav > li {
+  display: inline-block;
+  float: none;
+  margin: 5px 30px 0;
+}
+
+nav a {
+  transition: all 0.2s ease-in-out;
+}
+
+nav a:hover {
+  transform: scale(1.4);
+}
+// --------^ Navbar styling ^---------
+.grid-img {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.grid-img a {
+  font-size: 1.3em;
+}
+
+.grid-img-style {
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+}
+
+.gap {
+  margin-top: -15px;
+}
+
+.hover-effect {
+  opacity: 0.5;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.hover-effect:hover {
+  opacity: 1;
+}
+
+.btn-primary-outline {
+  position: relative;
+  bottom: 100px;
+  width: 200px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 5px solid white;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-primary-outline:hover {
+  transform: scale(1.3);
+}
+
+.btn-primary-outline a {
+  font-size: 1.3em;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-primary-outline a:hover {
+  text-decoration: none;
+  color: #A9A9A9;
+}
+// --------^ Index styling ^---------
+.portfolio-headings {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+// --------^ Portfolio styling ^---------
+.img-circular {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  display: block;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}
+
+.media-body {
+  margin-left: 40px;
+}
+// --------^ About styling ^---------
+.contact-details {
+  margin: 30px;
+  font-size: 1.8em;
+}
+
+.contact-img {
+  transition: all 0.2s ease-in-out;
+}
+
+.contact-img:hover {
+  transform: scale(1.3);
+}
+// --------^ Contact page styling ^---------
+.footer {
+  font-size: 1.2em;
+  margin-top: 30px;
+  border-top: 1px solid black;
+  padding-top: 10px;
+  margin-bottom: 30px;
+}
+
+.social {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+  transition: all 0.2s ease-in-out;
+}
+
+.social:hover {
+  transform: scale(1.5);
+}
+// --------^ Footer styling ^---------
