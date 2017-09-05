@@ -6,4 +6,3 @@ SitemapController < ApplicationController
       format.xml {@posts = Post.all}
     end
   end
-end
