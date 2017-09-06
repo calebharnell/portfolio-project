@@ -155,6 +155,8 @@ GEM
     selenium-webdriver (3.5.1)
       childprocess (~> 0.5)
       rubyzip (~> 1.0)
+    sitemap_generator (5.3.1)
+      builder (~> 3.0)
     spring (2.0.2)
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
@@ -208,6 +210,7 @@ DEPENDENCIES
   rails_real_favicon
   sass-rails (~> 5.0)
   selenium-webdriver
+  sitemap_generator
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
