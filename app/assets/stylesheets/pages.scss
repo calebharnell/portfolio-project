@@ -19,8 +19,12 @@
   padding-bottom: 20px;
 }
 
-.space-row {
-  margin-bottom: 20px;
+.pad-top {
+  padding-top: 20px;
+}
+
+.space-below {
+  margin-bottom: 30px;
 }
 // --------^ Universal styling ^---------
 .header {
@@ -59,6 +63,10 @@ nav a {
 
 nav a:hover {
   transform: scale(1.4);
+}
+
+nav a:active {
+  color: blue;
 }
 // --------^ Navbar styling ^---------
 .grid-img {
