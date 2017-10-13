@@ -23,7 +23,7 @@ My initial design was wireframes on a site called wix.com, as shown below.
 ![Wix1](/app/assets/images/wix-wireframe-1.png?raw=true "Wix1")
 ![Wix2](/app/assets/images/wix-wireframe-2.png?raw=true "Wix2")
 ![Wix3](/app/assets/images/wix-wireframe-3.png?raw=true "Wix3")
-![Wix4](/app/assets/images/wix-wireframe-4.png=250x250?raw=true "Wix4")
+![Wix4](/app/assets/images/wix-wireframe-4.png?raw=true "Wix4")
 
 The font I chose is ‘Roboto Condensed’, a sans serif font which I believe complements the simple design of the site.  
 
