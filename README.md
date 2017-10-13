@@ -1,12 +1,16 @@
+![Title Image](/app/assets/images/google-docs-title.png?raw=true "Title Image")
+
 Personal Portfolio project
 
-![Logo](/app/assets/images/stag.png?raw=true "Logo")
-
 11.09.2017
+
 Design Documentation
+
 When designing my portfolio website, I tried to keep in mind the audience I was designing it for (prospective employers) and why (to get hired).  The approach I took was to make a minimalist, visually appealing site that could still showcase some of the skills we have learned in the past 6 weeks.  
 
 To get started, here is a screenshot of my user stories from Trello.com:
+
+![Trello](/app/assets/images/trello-screenshot.png?raw=true "Trello")
 
 Considering the above factors, I decided to make a simple 4 page website using Ruby on Rails.  I also decided to use bootstrap as I felt I had a sound understanding of the bootstrap grid system and would be the easiest way for me to create a site that looked just as good on mobile devices.
 
@@ -16,7 +20,14 @@ Navigation throughout my site is simple with a modified bootstrap navbar, with a
 
 My initial design was wireframes on a site called wix.com, as shown below.
 
+![Wix1](/app/assets/images/wix-wireframe-1.png?raw=true "Wix1")
+![Wix2](/app/assets/images/wix-wireframe-2.png?raw=true "Wix2")
+![Wix3](/app/assets/images/wix-wireframe-3.png?raw=true "Wix3")
+![Wix4](/app/assets/images/wix-wireframe-4.png?raw=true "Wix4")
+
 The font I chose is ‘Roboto Condensed’, a sans serif font which I believe complements the simple design of the site.  
+
+![Roboto](/app/assets/images/roboto-screenshot.png?raw=true "Roboto")
 
 All pages follow the same basic layout.  Images are laid out in grid format, and any text or paragraphs are laid out with a rounded image opposite them.  These columns will stack on top of each other when viewed on a mobile device.
 
